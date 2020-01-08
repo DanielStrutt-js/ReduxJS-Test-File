@@ -1,0 +1,1 @@
+Basic test page for understanding how redux works and for reference
